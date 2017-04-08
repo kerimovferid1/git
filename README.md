@@ -50,3 +50,7 @@ $ git checkout -b <branch> --track <remote>/<branch> sytax beledir.
 Fayllar uzerideki deyiwikleri geri qaytarmaq ucundur.
 git reset –soft 1 addim geri qaytarir
 git reset –hard butun deyikleri geri qaytarir.
+18. What is the function of ‘git reset’?
+Fayllar uzerideki deyiwikleri geri qaytarmaq ucundur.
+git reset –soft 1 addim geri qaytarir
+git reset –hard butun deyikleri geri qaytarir.
